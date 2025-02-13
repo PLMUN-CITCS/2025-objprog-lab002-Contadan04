@@ -2,7 +2,7 @@ public class VariablesAndCaseSensitivity {
     public static void main(String[] args) {
 int studentAge = 15;
 double itemPrice = 29.99;
-String studentName = "Jericho";
+String studentName = "Alice";
 int counter = 10;
 int Counter = 20;
 System.out.println("Student Age: " + studentAge);
